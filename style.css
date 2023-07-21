@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffbb00;
+    color: #000000;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .image {
+    display: block;
+    margin: 20px auto;
+    width: 800px;
+  }
+  
+  .content {
+    text-align: center;
+  }
